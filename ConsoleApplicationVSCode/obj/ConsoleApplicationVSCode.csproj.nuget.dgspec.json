@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/thaila/ConsoleApplicationVSCode/ConsoleApplicationVSCode.csproj": {}
+  },
+  "projects": {
+    "/home/thaila/ConsoleApplicationVSCode/ConsoleApplicationVSCode.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/thaila/ConsoleApplicationVSCode/ConsoleApplicationVSCode.csproj",
+        "projectName": "ConsoleApplicationVSCode",
+        "projectPath": "/home/thaila/ConsoleApplicationVSCode/ConsoleApplicationVSCode.csproj",
+        "packagesPath": "/home/thaila/.nuget/packages/",
+        "outputPath": "/home/thaila/ConsoleApplicationVSCode/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/thaila/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

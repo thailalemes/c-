@@ -1,0 +1,13 @@
+/home/thaila/ConsoleApplicationVSCode/bin/Debug/netcoreapp3.1/ConsoleApplicationVSCode
+/home/thaila/ConsoleApplicationVSCode/bin/Debug/netcoreapp3.1/ConsoleApplicationVSCode.deps.json
+/home/thaila/ConsoleApplicationVSCode/bin/Debug/netcoreapp3.1/ConsoleApplicationVSCode.runtimeconfig.json
+/home/thaila/ConsoleApplicationVSCode/bin/Debug/netcoreapp3.1/ConsoleApplicationVSCode.runtimeconfig.dev.json
+/home/thaila/ConsoleApplicationVSCode/bin/Debug/netcoreapp3.1/ConsoleApplicationVSCode.dll
+/home/thaila/ConsoleApplicationVSCode/bin/Debug/netcoreapp3.1/ConsoleApplicationVSCode.pdb
+/home/thaila/ConsoleApplicationVSCode/obj/Debug/netcoreapp3.1/ConsoleApplicationVSCode.csprojAssemblyReference.cache
+/home/thaila/ConsoleApplicationVSCode/obj/Debug/netcoreapp3.1/ConsoleApplicationVSCode.AssemblyInfoInputs.cache
+/home/thaila/ConsoleApplicationVSCode/obj/Debug/netcoreapp3.1/ConsoleApplicationVSCode.AssemblyInfo.cs
+/home/thaila/ConsoleApplicationVSCode/obj/Debug/netcoreapp3.1/ConsoleApplicationVSCode.csproj.CoreCompileInputs.cache
+/home/thaila/ConsoleApplicationVSCode/obj/Debug/netcoreapp3.1/ConsoleApplicationVSCode.dll
+/home/thaila/ConsoleApplicationVSCode/obj/Debug/netcoreapp3.1/ConsoleApplicationVSCode.pdb
+/home/thaila/ConsoleApplicationVSCode/obj/Debug/netcoreapp3.1/ConsoleApplicationVSCode.genruntimeconfig.cache
