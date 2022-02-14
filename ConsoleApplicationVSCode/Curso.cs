@@ -44,7 +44,7 @@ namespace ConsoleApplicationVSCode
             Console.WriteLine($"Valor:{valor}");
             Console.WriteLine($"Vagas:{vagas}");
             Console.WriteLine($"Autor:{autor}");
-            Console.WriteLine("====================");
+            Console.WriteLine("=========================");
         }
     }
 }
